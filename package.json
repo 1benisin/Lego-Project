@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/1benisin/Lego-Project#readme",
   "dependencies": {
+    "@tensorflow/tfjs-node": "^2.7.0",
+    "csv-writer": "^1.6.0",
     "jimp": "^0.16.1"
   },
   "devDependencies": {
