@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/1benisin/Lego-Project#readme",
   "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.1.0",
+    "@tensorflow/tfjs-automl": "^1.0.0",
     "@tensorflow/tfjs-node": "^2.7.0",
+    "@tensorflow/tfjs-node-gpu": "^2.7.0",
     "csv-writer": "^1.6.0",
     "jimp": "^0.16.1"
   },
